@@ -1,0 +1,65 @@
+# 字体变量库
+
+default:
+  chinese: "中文苹方"
+  english: "英文San Francisco"
+
+时尚精美风:
+  chinese: "中文方正宋刻本秀楷"
+  english: "英文Playfair Display"
+
+科技工业风:
+  chinese: "中文科技感无衬线字体"
+  english: "英文Roboto Mono"
+
+奢华正式风:
+  chinese: "中文楷体"
+  english: "英文Times New Roman"
+
+可爱皮克斯风:
+  chinese: "中文可爱手写体"
+  english: "英文Comic Sans"
+
+极简主义风:
+  chinese: "中文苹方"
+  english: "英文San Francisco"
+
+复古怀旧风:
+  chinese: "中文宋体"
+  english: "英文Courier"
+
+赛博朋克风:
+  chinese: "中文像素字体"
+  english: "英文Cyberpunk"
+
+自然生态风:
+  chinese: "中文手写体"
+  english: "英文Organic"
+
+美食诱惑风:
+  chinese: "中文圆润字体"
+  english: "英文Yummy"
+
+运动活力风:
+  chinese: "中文粗体"
+  english: "英文Impact"
+
+艺术油画风:
+  chinese: "中文艺术字体"
+  english: "英文Artistic"
+
+建筑工程风:
+  chinese: "中文工程字体"
+  english: "英文Blueprint"
+
+医疗科学风:
+  chinese: "中文简洁字体"
+  english: "英文Clinical"
+
+音乐艺术风:
+  chinese: "中文音乐字体"
+  english: "英文Musical"
+
+游戏像素风:
+  chinese: "中文像素字体"
+  english: "英文Pixel"

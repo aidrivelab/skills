@@ -1,0 +1,155 @@
+# 阴影效果变量库
+
+default:
+  - description: "极淡投影"
+    type: "soft"
+    intensity: "low"
+
+时尚精美风:
+  - description: "柔和软阴影"
+    type: "soft"
+    intensity: "medium"
+    color: "#D4AF37"
+  - description: "精致渐变阴影"
+    type: "gradient"
+    intensity: "medium"
+    color: "#B76E79"
+
+科技工业风:
+  - description: "硬朗投影"
+    type: "hard"
+    intensity: "medium"
+    color: "#4A4A4A"
+  - description: "技术线条阴影"
+    type: "technical"
+    intensity: "low"
+    color: "#4A90E2"
+
+奢华正式风:
+  - description: "精致渐变阴影"
+    type: "gradient"
+    intensity: "high"
+    color: "#FFD700"
+  - description: "金箔反光阴影"
+    type: "foil"
+    intensity: "medium"
+    color: "#FFD700"
+
+可爱皮克斯风:
+  - description: "柔和软阴影"
+    type: "soft"
+    intensity: "low"
+    color: "#FFB6C1"
+  - description: "梦幻光晕阴影"
+    type: "glow"
+    intensity: "medium"
+    color: "#87CEEB"
+
+极简主义风:
+  - description: "极淡投影"
+    type: "soft"
+    intensity: "very-low"
+    color: "#000000"
+  - description: "无阴影"
+    type: "none"
+    intensity: "none"
+
+复古怀旧风:
+  - description: "怀旧颗粒阴影"
+    type: "grainy"
+    intensity: "medium"
+    color: "#8B4513"
+  - description: "老照片阴影"
+    type: "vintage-photo"
+    intensity: "medium"
+    color: "#2F4F4F"
+
+赛博朋克风:
+  - description: "霓虹投影"
+    type: "neon"
+    intensity: "high"
+    color: "#FF00FF"
+  - description: "辉光投影"
+    type: "glow"
+    intensity: "high"
+    color: "#00FFFF"
+
+自然生态风:
+  - description: "柔和投影"
+    type: "soft"
+    intensity: "low"
+    color: "#228B22"
+  - description: "阳光透过树叶阴影"
+    type: "dappled"
+    intensity: "medium"
+    color: "#D2B48C"
+
+美食诱惑风:
+  - description: "温暖柔和阴影"
+    type: "warm-soft"
+    intensity: "medium"
+    color: "#FF8C00"
+  - description: "食欲光泽阴影"
+    type: "glossy"
+    intensity: "medium"
+    color: "#8B4513"
+
+运动活力风:
+  - description: "动感模糊阴影"
+    type: "motion-blur"
+    intensity: "medium"
+    color: "#FF4500"
+  - description: "速度线阴影"
+    type: "speedline"
+    intensity: "high"
+    color: "#00BFFF"
+
+艺术油画风:
+  - description: "画布质感阴影"
+    type: "canvas"
+    intensity: "medium"
+    color: "#FF6347"
+  - description: "画笔笔触阴影"
+    type: "brushstroke"
+    intensity: "high"
+    color: "#4169E1"
+
+建筑工程风:
+  - description: "技术线条阴影"
+    type: "technical"
+    intensity: "low"
+    color: "#808080"
+  - description: "蓝图阴影"
+    type: "blueprint"
+    intensity: "medium"
+    color: "#4169E1"
+
+医疗科学风:
+  - description: "清洁锐利阴影"
+    type: "clean-sharp"
+    intensity: "low"
+    color: "#0071CE"
+  - description: "消毒光晕阴影"
+    type: "sterile-glow"
+    intensity: "low"
+    color: "#00A86B"
+
+音乐艺术风:
+  - description: "声波振动阴影"
+    type: "soundwave"
+    intensity: "medium"
+    color: "#FFD700"
+  - description: "音乐律动阴影"
+    type: "musical-rhythm"
+    intensity: "high"
+    color: "#1A1A1A"
+
+游戏像素风:
+  - description: "像素阴影"
+    type: "pixelated"
+    intensity: "medium"
+    color: "#FF6B6B"
+  - description: "8位游戏阴影"
+    type: "8-bit"
+    intensity: "low"
+    color: "#4ECDC4"

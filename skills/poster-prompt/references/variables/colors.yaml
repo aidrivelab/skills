@@ -1,0 +1,96 @@
+# 配色方案变量库
+
+default:
+  primary: "#FFFFFF"
+  secondary: "#F5F5F5"
+  accent: "#000000"
+
+时尚精美风:
+  primary: "#D4AF37"
+  secondary: "#B76E79"
+  background: "#FFF8E7"
+  text: "#333333"
+
+科技工业风:
+  primary: "#4A90E2"
+  secondary: "#4A4A4A"
+  background: "#C0C0C0"
+  text: "#1A1A1A"
+
+奢华正式风:
+  primary: "#000000"
+  secondary: "#FFD700"
+  background: "#FFFFF0"
+  text: "#000000"
+
+可爱皮克斯风:
+  primary: "#FFB6C1"
+  secondary: "#87CEEB"
+  background: "#FFF8E7"
+  text: "#333333"
+
+极简主义风:
+  primary: "#FFFFFF"
+  secondary: "#F5F5F5"
+  background: "#FFFFFF"
+  text: "#000000"
+
+复古怀旧风:
+  primary: "#8B4513"
+  secondary: "#2F4F4F"
+  background: "#F5DEB3"
+  text: "#1A1A1A"
+
+赛博朋克风:
+  primary: "#FF00FF"
+  secondary: "#00FFFF"
+  background: "#000000"
+  text: "#FFFFFF"
+
+自然生态风:
+  primary: "#228B22"
+  secondary: "#D2B48C"
+  background: "#87CEEB"
+  text: "#1A1A1A"
+
+美食诱惑风:
+  primary: "#FF8C00"
+  secondary: "#8B4513"
+  background: "#FFF8DC"
+  text: "#1A1A1A"
+
+运动活力风:
+  primary: "#FF4500"
+  secondary: "#00BFFF"
+  background: "#FFFFFF"
+  text: "#1A1A1A"
+
+艺术油画风:
+  primary: "#FF6347"
+  secondary: "#4169E1"
+  background: "#FFF8DC"
+  text: "#1A1A1A"
+
+建筑工程风:
+  primary: "#808080"
+  secondary: "#4169E1"
+  background: "#DEB887"
+  text: "#1A1A1A"
+
+医疗科学风:
+  primary: "#0071CE"
+  secondary: "#00A86B"
+  background: "#FFFFFF"
+  text: "#1A1A1A"
+
+音乐艺术风:
+  primary: "#1A1A1A"
+  secondary: "#FFD700"
+  background: "#DC143C"
+  text: "#FFFFFF"
+
+游戏像素风:
+  primary: "#FF6B6B"
+  secondary: "#4ECDC4"
+  background: "#1A1A1A"
+  text: "#FFFFFF"

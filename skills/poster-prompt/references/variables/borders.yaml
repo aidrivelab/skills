@@ -1,0 +1,157 @@
+# 边框样式变量库
+
+default:
+  - description: "极细1pt线条"
+    width: "1pt"
+    style: "solid"
+    color: "#000000"
+
+时尚精美风:
+  - description: "Art Deco六边形细线框(0.5-1pt)"
+    width: "0.5-1pt"
+    style: "art-deco"
+    color: "#D4AF37"
+  - description: "精致圆角矩形框"
+    width: "1pt"
+    style: "rounded"
+    color: "#B76E79"
+
+科技工业风:
+  - description: "蓝图网格线条"
+    width: "0.5pt"
+    style: "blueprint"
+    color: "#4A90E2"
+  - description: "技术图纸边框"
+    width: "1pt"
+    style: "technical"
+    color: "#4A4A4A"
+
+奢华正式风:
+  - description: "精致圆角矩形框"
+    width: "1pt"
+    style: "rounded"
+    color: "#FFD700"
+  - description: "欧式花纹边框"
+    width: "2pt"
+    style: "ornate"
+    color: "#FFD700"
+
+可爱皮克斯风:
+  - description: "圆润卡通边框"
+    width: "2pt"
+    style: "cartoon"
+    color: "#FFB6C1"
+  - description: "彩虹渐变边框"
+    width: "3pt"
+    style: "rainbow"
+    color: "gradient"
+
+极简主义风:
+  - description: "无边框"
+    width: "0pt"
+    style: "none"
+    color: "transparent"
+  - description: "极细1pt线条"
+    width: "1pt"
+    style: "solid"
+    color: "#000000"
+
+复古怀旧风:
+  - description: "复古木质边框"
+    width: "3pt"
+    style: "wooden"
+    color: "#8B4513"
+  - description: "老式相框边框"
+    width: "4pt"
+    style: "vintage-frame"
+    color: "#8B4513"
+
+赛博朋克风:
+  - description: "霓虹发光边框"
+    width: "2pt"
+    style: "neon-glow"
+    color: "#FF00FF"
+  - description: "数字扫描线边框"
+    width: "1pt"
+    style: "scanline"
+    color: "#00FFFF"
+
+自然生态风:
+  - description: "自然有机曲线边框"
+    width: "2pt"
+    style: "organic"
+    color: "#228B22"
+  - description: "藤蔓装饰边框"
+    width: "2pt"
+    style: "vine"
+    color: "#228B22"
+
+美食诱惑风:
+  - description: "美味波浪边框"
+    width: "2pt"
+    style: "wavy"
+    color: "#FF8C00"
+  - description: "糖霜装饰边框"
+    width: "3pt"
+    style: "frosting"
+    color: "#8B4513"
+
+运动活力风:
+  - description: "动感斜线边框"
+    width: "2pt"
+    style: "diagonal"
+    color: "#FF4500"
+  - description: "速度线边框"
+    width: "1pt"
+    style: "speedline"
+    color: "#00BFFF"
+
+艺术油画风:
+  - description: "油画框样式"
+    width: "4pt"
+    style: "painting-frame"
+    color: "#8B4513"
+  - description: "画笔笔触边框"
+    width: "3pt"
+    style: "brushstroke"
+    color: "#FF6347"
+
+建筑工程风:
+  - description: "工程图纸边框"
+    width: "1pt"
+    style: "blueprint"
+    color: "#4169E1"
+  - description: "尺寸标注边框"
+    width: "1pt"
+    style: "dimension"
+    color: "#808080"
+
+医疗科学风:
+  - description: "消毒无菌边框"
+    width: "1pt"
+    style: "sterile"
+    color: "#0071CE"
+  - description: "科学网格边框"
+    width: "0.5pt"
+    style: "grid"
+    color: "#00A86B"
+
+音乐艺术风:
+  - description: "音符装饰边框"
+    width: "2pt"
+    style: "musical-note"
+    color: "#FFD700"
+  - description: "五线谱边框"
+    width: "1pt"
+    style: "staff"
+    color: "#1A1A1A"
+
+游戏像素风:
+  - description: "像素化边框"
+    width: "4px"
+    style: "pixelated"
+    color: "#FF6B6B"
+  - description: "8位游戏机边框"
+    width: "8px"
+    style: "8-bit"
+    color: "#4ECDC4"

@@ -1,0 +1,157 @@
+# 背景变量库
+
+default:
+  description: "纯白色背景"
+  color: "#FFFFFF"
+  pattern: "none"
+  texture: "none"
+
+时尚精美风:
+  - description: "奶油色背景"
+    color: "#FFF8E7"
+    pattern: "none"
+    texture: "细腻"
+  - description: "浅金渐变背景"
+    color: "gradient(#FFF8E7, #D4AF37)"
+    pattern: "极淡几何图案"
+    texture: "金箔质感"
+
+科技工业风:
+  - description: "银色背景"
+    color: "#C0C0C0"
+    pattern: "蓝图网格"
+    texture: "金属质感"
+  - description: "炭灰色背景"
+    color: "#4A4A4A"
+    pattern: "电路图案"
+    texture: "碳纤维"
+
+奢华正式风:
+  - description: "象牙白背景"
+    color: "#FFFFF0"
+    pattern: "极淡欧式花纹"
+    texture: "丝质"
+  - description: "纯黑背景"
+    color: "#000000"
+    pattern: "none"
+    texture: "细腻"
+
+可爱皮克斯风:
+  - description: "奶油色背景"
+    color: "#FFF8E7"
+    pattern: "云朵图案"
+    texture: "柔和"
+  - description: "淡粉色渐变背景"
+    color: "gradient(#FFF8E7, #FFB6C1)"
+    pattern: "星星点缀"
+    texture: "梦幻"
+
+极简主义风:
+  - description: "纯白色背景"
+    color: "#FFFFFF"
+    pattern: "none"
+    texture: "纯净"
+  - description: "浅灰色背景"
+    color: "#F5F5F5"
+    pattern: "极淡几何线条"
+    texture: "细腻"
+
+复古怀旧风:
+  - description: "米色背景"
+    color: "#F5DEB3"
+    pattern: "复古颗粒"
+    texture: "纸张"
+  - description: "棕褐色渐变背景"
+    color: "gradient(#F5DEB3, #8B4513)"
+    pattern: "胶片边缘"
+    texture: "老照片"
+
+赛博朋克风:
+  - description: "纯黑背景"
+    color: "#000000"
+    pattern: "霓虹网格"
+    texture: "科技"
+  - description: "深紫渐变背景"
+    color: "gradient(#000000, #4B0082)"
+    pattern: "数字雨"
+    texture: "全息"
+
+自然生态风:
+  - description: "天空蓝背景"
+    color: "#87CEEB"
+    pattern: "叶子投影"
+    texture: "自然"
+  - description: "森林绿渐变背景"
+    color: "gradient(#87CEEB, #228B22)"
+    pattern: "自然散景"
+    texture: "清新"
+
+美食诱惑风:
+  - description: "奶油白背景"
+    color: "#FFF8DC"
+    pattern: "糖霜装饰"
+    texture: "美味"
+  - description: "暖橙色渐变背景"
+    color: "gradient(#FFF8DC, #FF8C00)"
+    pattern: "面粉效果"
+    texture: "温暖"
+
+运动活力风:
+  - description: "纯白色背景"
+    color: "#FFFFFF"
+    pattern: "速度线"
+    texture: "动感"
+  - description: "电光蓝渐变背景"
+    color: "gradient(#FFFFFF, #00BFFF)"
+    pattern: "能量波纹"
+    texture: "活力"
+
+艺术油画风:
+  - description: "奶油白背景"
+    color: "#FFF8DC"
+    pattern: "调色板纹理"
+    texture: "画布"
+  - description: "多彩渐变背景"
+    color: "gradient(#FFF8DC, #FF6347, #4169E1)"
+    pattern: "画笔笔触"
+    texture: "艺术"
+
+建筑工程风:
+  - description: "木色背景"
+    color: "#DEB887"
+    pattern: "图纸网格"
+    texture: "纸张"
+  - description: "水泥灰背景"
+    color: "#808080"
+    pattern: "工程线"
+    texture: "水泥"
+
+医疗科学风:
+  - description: "纯白色背景"
+    color: "#FFFFFF"
+    pattern: "科学网格"
+    texture: "清洁"
+  - description: "医疗蓝渐变背景"
+    color: "gradient(#FFFFFF, #0071CE)"
+    pattern: "消毒线"
+    texture: "无菌"
+
+音乐艺术风:
+  - description: "舞台红背景"
+    color: "#DC143C"
+    pattern: "五线谱"
+    texture: "舞台"
+  - description: "黑胶黑背景"
+    color: "#1A1A1A"
+    pattern: "音频波形"
+    texture: "唱片"
+
+游戏像素风:
+  - description: "纯黑背景"
+    color: "#1A1A1A"
+    pattern: "8位色板"
+    texture: "像素"
+  - description: "像素渐变背景"
+    color: "gradient(#1A1A1A, #FF6B6B, #4ECDC4)"
+    pattern: "游戏界面元素"
+    texture: "复古"

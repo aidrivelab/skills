@@ -1,0 +1,174 @@
+# 品牌指南配置文件 / Brand Guidelines Configuration
+
+brand_guides:
+  default:
+    name: "Design Studio"
+    description: "默认时尚精美风格"
+    colors:
+      primary: "#D4AF37"
+      secondary: "#B76E79"
+      background: "#FFF8E7"
+      text: "#333333"
+    fonts:
+      chinese: "方正宋刻本秀楷"
+      english: "Playfair Display"
+      subtitle: "思源黑体"
+      mono: "Source Code Pro"
+    elements:
+      border: "Art Deco六边形细线框(0.5-1pt)"
+      shadow: "柔和软阴影"
+      decorations: "金色散景光斑, 微妙胶片颗粒, 新艺术风格装饰框"
+      background: "奶油色背景"
+      effects: "金色散景光斑, 微妙胶片颗粒, 金箔效果"
+
+  luxury:
+    name: "Luxury Brand"
+    description: "奢华精致风格"
+    colors:
+      primary: "#FFD700"
+      secondary: "#8B0000"
+      background: "#FFFFF0"
+      text: "#000000"
+    fonts:
+      chinese: "思源宋体"
+      english: "Bodoni Moda"
+      subtitle: "思源黑体"
+      mono: "Noto Serif"
+    elements:
+      border: "欧式描边细线框"
+      shadow: "华丽光晕阴影"
+      decorations: "金箔效果, 繁花装饰, 烫金边框"
+      background: "丝绸纹理背景"
+      effects: "光泽质感, 精致暗角"
+
+  tech:
+    name: "Tech Studio"
+    description: "科技工业风格"
+    colors:
+      primary: "#4A90E2"
+      secondary: "#00D9FF"
+      background: "#1A1A2E"
+      text: "#E0E0E0"
+    fonts:
+      chinese: "科技黑体"
+      english: "Roboto Mono"
+      subtitle: "思源黑体"
+      mono: "JetBrains Mono"
+    elements:
+      border: "蓝图网格线条"
+      shadow: "科技感投影"
+      decorations: "蓝图网格, 测量尺, 十字准星"
+      background: "深空蓝渐变"
+      effects: "霓虹辉光, 故障艺术"
+
+  minimalist:
+    name: "Minimalist"
+    description: "极简主义风格"
+    colors:
+      primary: "#000000"
+      secondary: "#FFFFFF"
+      background: "#FAFAFA"
+      text: "#1A1A1A"
+    fonts:
+      chinese: "苹方"
+      english: "San Francisco"
+      subtitle: "Helvetica Neue"
+      mono: "SF Mono"
+    elements:
+      border: "极细线条"
+      shadow: "无阴影"
+      decorations: "纯色块, 几何形状"
+      background: "纯白背景"
+      effects: "简洁锐利"
+
+  pixar:
+    name: "Pixar Style"
+    description: "皮克斯卡通风格"
+    colors:
+      primary: "#FF6B6B"
+      secondary: "#4ECDC4"
+      background: "#FFE66D"
+      text: "#2C3E50"
+    fonts:
+      chinese: "幼圆"
+      english: "Comic Sans MS"
+      subtitle: "圆体"
+      mono: "Consolas"
+    elements:
+      border: "圆角矩形"
+      shadow: "卡通软阴影"
+      decorations: "星星, 云朵, 彩虹"
+      background: "渐变天空"
+      effects: "卡通描边"
+
+  vintage:
+    name: "Vintage"
+    description: "复古怀旧风格"
+    colors:
+      primary: "#8B4513"
+      secondary: "#D2691E"
+      background: "#F5DEB3"
+      text: "#3E2723"
+    fonts:
+      chinese: "方正喵呜体"
+      english: "New York"
+      subtitle: "Courier New"
+      mono: "Typewriter"
+    elements:
+      border: "复古边框"
+      shadow: "怀旧投影"
+      decorations: "复古纹理, 邮票边框"
+      background: "复古纸张"
+      effects: "做旧处理"
+
+  cyberpunk:
+    name: "Cyberpunk"
+    description: "赛博朋克风格"
+    colors:
+      primary: "#FF00FF"
+      secondary: "#00FFFF"
+      background: "#0D0D0D"
+      text: "#00FF00"
+    fonts:
+      chinese: "黑客帝国"
+      english: "Orbitron"
+      subtitle: "科幻黑体"
+      mono: "Fira Code"
+    elements:
+      border: "全息边框"
+      shadow: "霓虹发光"
+      decorations: "电路板, 数据流, 扫描线"
+      background: "暗夜都市"
+      effects: "故障效果, CRT扫描线"
+
+  nature:
+    name: "Nature"
+    description: "自然生态风格"
+    colors:
+      primary: "#228B22"
+      secondary: "#90EE90"
+      background: "#F0FFF0"
+      text: "#2E8B57"
+    fonts:
+      chinese: "站酷快乐体"
+      english: "Lora"
+      subtitle: "手写体"
+      mono: "Monospace"
+    elements:
+      border: "藤蔓边框"
+      shadow: "自然投影"
+      decorations: "叶子, 花朵, 蝴蝶"
+      background: "森林渐变"
+      effects: "光影斑驳"
+
+default_brand_guide: "default"
+
+brand_guide_descriptions:
+  default: "适合时尚、美妆、奢侈品等领域"
+  luxury: "适合高端奢华品牌"
+  tech: "适合科技产品"
+  minimalist: "适合极简设计"
+  pixar: "适合卡通角色"
+  vintage: "适合复古产品"
+  cyberpunk: "适合科技潮流"
+  nature: "适合自然产品"
